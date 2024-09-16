@@ -1,0 +1,27 @@
+body {
+    color:white;
+    background:darkred
+    
+}
+header {
+    border: solid 2x white;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+}
+
+section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.div {
+    margin-right: 5%;
+}
+img {
+    height: 200px;
+   
+  }
